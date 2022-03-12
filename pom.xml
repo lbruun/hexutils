@@ -18,7 +18,7 @@ limitations under the License.
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.lbruun</groupId>
     <artifactId>hexutils</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>HexUtils</name>
     <properties>
@@ -58,7 +58,7 @@ limitations under the License.
         <connection>scm:git:https://github.com/lbruun/HexUtils.git</connection>
         <developerConnection>scm:git:https://github.com/lbruun/HexUtils.git</developerConnection>
         <url>https://github.com/lbruun/HexUtils</url>
-      <tag>hexutils-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>    
 
     <distributionManagement>
